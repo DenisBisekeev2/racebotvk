@@ -1,0 +1,60 @@
+{
+  "ban": {
+    "users_ids": [
+      761815201
+    ],
+    "761815201": {
+      "days": 1,
+      "time": 1762974851,
+      "reason": "1.1"
+    }
+  },
+  "freeze": {
+    "users_ids": []
+  },
+  "pred": {},
+  "moders": {
+    "users_ids": [
+      "819016396",
+      "761815201",
+      "811081480",
+      "643218783",
+      "829469882"
+    ],
+    "819016396": {
+      "status": "owner",
+      "reports": 0,
+      "perm": [
+        "all"
+      ]
+    },
+    "761815201": {
+      "status": "zam",
+      "reports": 0,
+      "perm": [
+        "all"
+      ]
+    },
+    "811081480": {
+      "status": "zam",
+      "reports": 0,
+      "perm": [
+        "basic"
+      ]
+    },
+    "643218783": {
+      "status": "admin",
+      "reports": 0,
+      "perm": [
+        "basic"
+      ]
+    },
+    "829469882": {
+      "status": "moder",
+      "reports": 0,
+      "perm": [
+        "basic"
+      ]
+    }
+  }
+}
